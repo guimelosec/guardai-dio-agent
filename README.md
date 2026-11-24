@@ -126,7 +126,7 @@ Estou travado em um Desafio de [Código, Projeto ou Criativo] da DIO.
 Me ajuda a destravar sem dar a resposta pronta.
 ```
 
-**💡 Explicar conceito)**
+**💡 Explicar conceito**
 
 ```
 Me explica o conceito de [ex: API, laço de repetição, herança].
